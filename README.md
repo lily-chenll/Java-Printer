@@ -13,5 +13,7 @@ Steps:
   
      ![image](https://github.com/lilyDog/Java-Printer/raw/master/image/4.PNG)
   4. attention: the balnk in the  .pdf is so small, while I have dealt with it.
+  
+     ![image](https://github.com/lilyDog/Java-Printer/raw/master/image/5.PNG)
      
 

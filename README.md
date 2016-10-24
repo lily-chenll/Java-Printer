@@ -4,7 +4,7 @@ Steps:
   1. open CMD, input javac PrintTest.java:
   
      ![image](https://github.com/lilyDog/Java-Printer/raw/master/image/1.PNG)    
-  2. click Print Pages:
+  1. click print pages:
   
      ![image](https://github.com/lilyDog/Java-Printer/raw/master/image/2.PNG)
      ![image](https://github.com/lilyDog/Java-Printer/raw/master/image/3.PNG)   

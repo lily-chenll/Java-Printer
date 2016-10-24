@@ -7,7 +7,6 @@ Steps:
   2. click Print Pages:
   
      ![image](https://github.com/lilyDog/Java-Printer/raw/master/image/2.PNG)
-     
      ![image](https://github.com/lilyDog/Java-Printer/raw/master/image/3.PNG)   
   3. after finishing, open the 0.pdf:
   
